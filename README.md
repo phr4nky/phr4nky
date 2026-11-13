@@ -1,4 +1,4 @@
-# Hey, I'm phr4nky 👋
+# Hey, I'm Frank Kuhn 👋
 
 **CEO & Founder of [Swipergy](https://swipergy.com)** · Software Architect · Security Researcher
 
@@ -31,7 +31,7 @@ Responsible disclosure only. If I found something in your stack, you'll hear it 
 
 ## ☸️ Off the keyboard
 
-Buddhist. Trying to write code with the same mindset as meditation: attention, patience, and letting go of what doesn't serve.
+Trying to write code with the same mindset as meditation: attention, patience, and letting go of what doesn't serve.
 
 When I'm not at the keyboard: golfing ⛳, swimming 🏊, running 🏃, reading 📚, and time with my family ❤️.
 
