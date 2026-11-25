@@ -12,7 +12,6 @@ I build software, I break software, and I try to stay calm while doing both. �
 - 🏗️ **Software Architect** - designing systems that are meant to last, not just to ship
 - 🅰️ **Angular enthusiast** - strongly typed, reactive, and unapologetic about it
 - 🔐 **Ethical Hacker & Security Researcher** - finding vulnerabilities before the wrong people do
-- 🤖 **[AIpentix](https://www.aipentix.com)** - an agentic red team center, running red team ops with an awesome team
 
 ## 🧰 Tech I enjoy
 
