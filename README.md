@@ -29,6 +29,17 @@ I build software, I break software, and I try to stay calm while doing both. �
 
 Responsible disclosure only. If I found something in your stack, you'll hear it from me first - not from the news.
 
+## 🤝 Open source contributions
+
+Merged upstream:
+
+- **[angular/angular](https://github.com/angular/angular)** - [use the custom Sanitizer for URLs in i18n attributes](https://github.com/angular/angular/pull/72035)
+- **[ruby/ruby](https://github.com/ruby/ruby)** - [reject non-Regexp classes for user class Regexp in `Marshal.load`](https://github.com/ruby/ruby/pull/19865)
+- **[ruby/ruby](https://github.com/ruby/ruby)** - [range-check rlimit values before fork](https://github.com/ruby/ruby/pull/19867)
+- **[quarkusio/quarkus](https://github.com/quarkusio/quarkus)** - [continue a Qute `#if` condition after an `&&` short-circuit](https://github.com/quarkusio/quarkus/pull/58416)
+- **[eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt)** - [fix `verifier_info` handling in the JWS header of multi-signed DC API requests](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt/pull/534)
+- **[ng-native/ng-native](https://github.com/ng-native/ng-native)** - [keep streamed numbered lists and paragraphs whole while content is still arriving](https://github.com/ng-native/ng-native/pull/1895)
+
 ## ☸️ Off the keyboard
 
 Trying to write code with the same mindset as meditation: attention, patience, and letting go of what doesn't serve.
