@@ -38,6 +38,7 @@ Merged upstream:
 - **[quarkusio/quarkus](https://github.com/quarkusio/quarkus)** - [continue a Qute `#if` condition after an `&&` short-circuit](https://github.com/quarkusio/quarkus/pull/58416)
 - **[eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt)** - [fix `verifier_info` handling in the JWS header of multi-signed DC API requests](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt/pull/534)
 - **[ng-native/ng-native](https://github.com/ng-native/ng-native)** - [keep streamed numbered lists and paragraphs whole while content is still arriving](https://github.com/ng-native/ng-native/pull/1895)
+- **[meta/buck2](https://github.com/meta/buck2)** - [pass non-diagnostic JSON on rustc's stderr through](https://github.com/meta/buck2/pull/1661)
 
 ## ☸️ Off the keyboard
 
