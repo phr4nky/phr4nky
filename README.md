@@ -39,6 +39,7 @@ Merged upstream:
 - **[eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt)** - [fix `verifier_info` handling in the JWS header of multi-signed DC API requests](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vp-kt/pull/534)
 - **[ng-native/ng-native](https://github.com/ng-native/ng-native)** - [keep streamed numbered lists and paragraphs whole while content is still arriving](https://github.com/ng-native/ng-native/pull/1895)
 - **[meta/buck2](https://github.com/meta/buck2)** - [pass non-diagnostic JSON on rustc's stderr through](https://github.com/meta/buck2/pull/1661)
+- **[meta/buck2](https://github.com/meta/buck2)** - [keep build script stdout that is not UTF-8 or comes before a failure](https://github.com/meta/buck2/pull/1662)
 
 ## ☸️ Off the keyboard
 
