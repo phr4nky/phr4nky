@@ -28,6 +28,11 @@ I build software, I break software, and I try to stay calm while doing both. üß
 
 Responsible disclosure only. If I found something in your stack, you'll hear it from me first - not from the news.
 
+Published advisories:
+
+- **[thymianofficial/thymian](https://github.com/thymianofficial/thymian)** - [GHSA-w6vc-hxc8-68g7](https://github.com/thymianofficial/thymian/security/advisories/GHSA-w6vc-hxc8-68g7) (high): the WebSocket proxy plugin did not enforce its per-plugin token and listened on all interfaces without an Origin check
+- **[ba-itsys/keycloak-extension-bundid](https://github.com/ba-itsys/keycloak-extension-bundid)** - [GHSA-3r3j-mx23-j5jj](https://github.com/ba-itsys/keycloak-extension-bundid/security/advisories/GHSA-3r3j-mx23-j5jj) (low): a race condition in `BundIdProtocolMapper` leaked identity claims across users
+
 ## ü§ù Open source contributions
 
 Merged upstream:
