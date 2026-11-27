@@ -45,6 +45,8 @@ Merged upstream:
 - **[ng-native/ng-native](https://github.com/ng-native/ng-native)** - [keep streamed numbered lists and paragraphs whole while content is still arriving](https://github.com/ng-native/ng-native/pull/1895)
 - **[meta/buck2](https://github.com/meta/buck2)** - [pass non-diagnostic JSON on rustc's stderr through](https://github.com/meta/buck2/pull/1661)
 - **[meta/buck2](https://github.com/meta/buck2)** - [keep build script stdout that is not UTF-8 or comes before a failure](https://github.com/meta/buck2/pull/1662)
+- **[meta/buck2](https://github.com/meta/buck2)** - [pass `-Cunsafe-allow-abi-mismatch` to build scripts only with a sanitizer](https://github.com/meta/buck2/pull/1670)
+- **[meta/buck2](https://github.com/meta/buck2)** - [give build scripts every cfg as `CARGO_CFG_*`, as Cargo does](https://github.com/meta/buck2/pull/1671)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [don't double count hardlinks when actually cleaning](https://github.com/rust-lang/cargo/pull/17805)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [skip a UTF-8 BOM before parsing the frontmatter of a cargo script](https://github.com/rust-lang/cargo/pull/17806)
 
