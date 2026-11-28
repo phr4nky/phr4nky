@@ -1,10 +1,10 @@
 # Hey, I'm Frank Kuhn 👋
 
+I build software, I break software, and I try to stay calm while doing both. 🧘
+
 🌐 Homepage: **[www.p4ck3tz.com](https://www.p4ck3tz.com)**
 
 📫 Reach me: **g0t@p4ck3tz.com**
-
-I build software, I break software, and I try to stay calm while doing both. 🧘
 
 ---
 
