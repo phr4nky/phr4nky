@@ -1,5 +1,9 @@
 # Hey, I'm Frank Kuhn 👋
 
+🌐 Homepage: **[www.p4ck3tz.com](https://www.p4ck3tz.com)**
+
+📫 Reach me: **g0t@p4ck3tz.com**
+
 I build software, I break software, and I try to stay calm while doing both. 🧘
 
 ---
@@ -65,9 +69,3 @@ Merged upstream:
 - **[meta/buck2](https://github.com/meta/buck2)** - [write `Metadata-Version` in wheel `METADATA`](https://github.com/meta/buck2/pull/1668)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [don't double count hardlinks when actually cleaning](https://github.com/rust-lang/cargo/pull/17805)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [skip a UTF-8 BOM before parsing the frontmatter of a cargo script](https://github.com/rust-lang/cargo/pull/17806)
-
----
-
-🌐 Homepage: **[www.p4ck3tz.com](https://www.p4ck3tz.com)**
-
-📫 Reach me: **g0t@p4ck3tz.com**
