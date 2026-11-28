@@ -1,7 +1,5 @@
 # Hey, I'm Frank Kuhn 👋
 
-**CEO & Founder of [Swipergy](https://swipergy.com)** · Software Architect · Security Researcher
-
 I build software, I break software, and I try to stay calm while doing both. 🧘
 
 ---
