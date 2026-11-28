@@ -61,6 +61,7 @@ Merged upstream:
 - **[meta/buck2](https://github.com/meta/buck2)** - [keep the library path in `/WHOLEARCHIVE` in the MSVC linker wrapper](https://github.com/meta/buck2/pull/1655)
 - **[meta/buck2](https://github.com/meta/buck2)** - [track headers of clang-cl compiles with `/showIncludes`](https://github.com/meta/buck2/pull/1656)
 - **[meta/buck2](https://github.com/meta/buck2)** - [only pass `-Wa,--debug-prefix-map` to GCC in `remap_cwd`](https://github.com/meta/buck2/pull/1663)
+- **[meta/buck2](https://github.com/meta/buck2)** - [track the prefix header in dep files of clang compiles](https://github.com/meta/buck2/pull/1665)
 - **[meta/buck2](https://github.com/meta/buck2)** - [exclude archive members by name, not as tar globs](https://github.com/meta/buck2/pull/1666)
 - **[meta/buck2](https://github.com/meta/buck2)** - [make the bytecode path in `compile.py` independent of the environment](https://github.com/meta/buck2/pull/1659)
 - **[meta/buck2](https://github.com/meta/buck2)** - [generate console scripts for every entry point form in `extract.py`](https://github.com/meta/buck2/pull/1660)
