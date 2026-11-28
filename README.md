@@ -33,6 +33,14 @@ Published advisories:
 - **[thymianofficial/thymian](https://github.com/thymianofficial/thymian)** - [GHSA-w6vc-hxc8-68g7](https://github.com/thymianofficial/thymian/security/advisories/GHSA-w6vc-hxc8-68g7) (high): the WebSocket proxy plugin did not enforce its per-plugin token and listened on all interfaces without an Origin check
 - **[ba-itsys/keycloak-extension-bundid](https://github.com/ba-itsys/keycloak-extension-bundid)** - [GHSA-3r3j-mx23-j5jj](https://github.com/ba-itsys/keycloak-extension-bundid/security/advisories/GHSA-3r3j-mx23-j5jj) (low): a race condition in `BundIdProtocolMapper` leaked identity claims across users
 
+## ☸️ Off the keyboard
+
+Trying to write code with the same mindset as meditation: attention, patience, and letting go of what doesn't serve.
+
+When I'm not at the keyboard: golfing ⛳, swimming 🏊, running 🏃, reading 📚, and time with my family ❤️.
+
+> *"You only lose what you cling to."* - legacy code included.
+
 ## 🤝 Open source contributions
 
 Merged upstream:
@@ -59,14 +67,6 @@ Merged upstream:
 - **[meta/buck2](https://github.com/meta/buck2)** - [write `Metadata-Version` in wheel `METADATA`](https://github.com/meta/buck2/pull/1668)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [don't double count hardlinks when actually cleaning](https://github.com/rust-lang/cargo/pull/17805)
 - **[rust-lang/cargo](https://github.com/rust-lang/cargo)** - [skip a UTF-8 BOM before parsing the frontmatter of a cargo script](https://github.com/rust-lang/cargo/pull/17806)
-
-## ☸️ Off the keyboard
-
-Trying to write code with the same mindset as meditation: attention, patience, and letting go of what doesn't serve.
-
-When I'm not at the keyboard: golfing ⛳, swimming 🏊, running 🏃, reading 📚, and time with my family ❤️.
-
-> *"You only lose what you cling to."* - legacy code included.
 
 ---
 
